@@ -13,6 +13,84 @@ export const ACCEPT_ORGANIZATION_REQUEST_MUTATION: DocumentNode;
 export const ADD_ADMIN_MUTATION: DocumentNode;
 
 // @public
+export const ADMIN_LIST: DocumentNode;
+
+// @public
+export const BLOCK_USER_MUTATION: DocumentNode;
+
+// @public
+export const CHECK_AUTH: DocumentNode;
+
+// @public
+export const CREATE_EVENT_MUTATION: DocumentNode;
+
+// @public
+export const CREATE_ORGANIZATION_MUTATION: DocumentNode;
+
+// @public
+export const CREATE_POST_MUTATION: DocumentNode;
+
+// @public
+export const DELETE_EVENT_MUTATION: DocumentNode;
+
+// @public
+export const DELETE_ORGANIZATION_MUTATION: DocumentNode;
+
+// @public
+export const DELETE_POST_MUTATION: DocumentNode;
+
+// @public
+export const LOGIN_MUTATION: DocumentNode;
+
+// @public
+export const MEMBERS_LIST: DocumentNode;
+
+// @public
+export const MEMBERSHIP_REQUEST: DocumentNode;
+
+// @public
+export const ORGANIZATION_EVENT_LIST: DocumentNode;
+
+// @public
+export const ORGANIZATION_LIST: DocumentNode;
+
+// @public
+export const ORGANIZATION_POST_LIST: DocumentNode;
+
+// @public
+export const ORGANIZATIONS_LIST: DocumentNode;
+
+// @public
+export const REJECT_ORGANIZATION_REQUEST_MUTATION: DocumentNode;
+
+// @public
+export const REMOVE_ADMIN_MUTATION: DocumentNode;
+
+// @public
+export const REMOVE_MEMBER_MUTATION: DocumentNode;
+
+// @public
+export const SIGNUP_MUTATION: DocumentNode;
+
+// @public
+export const UNBLOCK_USER_MUTATION: DocumentNode;
+
+// @public
+export const UPDATE_ORGANIZATION_MUTATION: DocumentNode;
+
+// @public
+export const UPDATE_USER_MUTATION: DocumentNode;
+
+// @public
+export const USER_LIST: DocumentNode;
+
+// @public
+export const USER_ORGANIZATION_LIST: DocumentNode;
+
+// @public
+export const ADD_ADMIN_MUTATION: DocumentNode;
+
+// @public
 export const BLOCK_USER_MUTATION: DocumentNode;
 
 // @public
