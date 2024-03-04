@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/components/CheckIn/CheckInModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/components/CheckIn/CheckInModal.tsx#L16)
+[src/components/CheckIn/CheckInModal.tsx:16](https://github.com/wingman47/talawa-admin/blob/b199b2f/src/components/CheckIn/CheckInModal.tsx#L16)

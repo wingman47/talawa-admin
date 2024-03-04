@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/components/TableLoader/TableLoader.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/components/TableLoader/TableLoader.tsx#L11)
+[src/components/TableLoader/TableLoader.tsx:11](https://github.com/wingman47/talawa-admin/blob/b199b2f/src/components/TableLoader/TableLoader.tsx#L11)

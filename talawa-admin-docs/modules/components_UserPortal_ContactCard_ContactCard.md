@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/components/UserPortal/ContactCard/ContactCard.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/components/UserPortal/ContactCard/ContactCard.tsx#L15)
+[src/components/UserPortal/ContactCard/ContactCard.tsx:16](https://github.com/wingman47/talawa-admin/blob/b199b2f/src/components/UserPortal/ContactCard/ContactCard.tsx#L16)
